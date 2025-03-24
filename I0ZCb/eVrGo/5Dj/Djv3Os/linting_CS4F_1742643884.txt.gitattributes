@@ -1,5 +1,4 @@
 * text=auto eol=lf
-
 crates/ruff_linter/resources/test/fixtures/isort/line_ending_crlf.py text eol=crlf
 crates/ruff_linter/resources/test/fixtures/pycodestyle/W605_1.py text eol=crlf
 crates/ruff_linter/resources/test/fixtures/pycodestyle/W391_2.py text eol=crlf
