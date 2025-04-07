@@ -23,7 +23,6 @@
   "Pipes": [
     {
       "Id": "JsonTweetsToFirehoseLogStream",
-      "SourceRef": "TweetsJSON",
       "SinkRef": "FirehoseLogStream"
     }
   ]
