@@ -40,7 +40,6 @@ rack/body_proxy
 rspec/mocks
 rspec/expectations
 rspec/support/fuzzy_matcher
-rspec/support/mutex
 rspec/support/object_formatter
 rspec/core/example_status_persister
 rspec/core/formatters/base_formatter
