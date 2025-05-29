@@ -290,7 +290,6 @@ at_exit do
             throw :fixed, f.delete_prefix(dir)
           end
         end
-        f
       end
     end
 
