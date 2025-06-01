@@ -26,7 +26,6 @@ module.exports = {
         ignoreComments: false,
         ignoreTrailingComments: true,
         ignoreUrls: true,
-        ignoreStrings: true,
         ignoreTemplateLiterals: true,
         ignoreRegExpLiterals: true,
       },
